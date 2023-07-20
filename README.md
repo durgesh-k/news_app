@@ -13,3 +13,9 @@ https://drive.google.com/file/d/1VYqci9Of1VtgFeXO9ZEWv8V3Hn8WFOgM/view?usp=shari
 
 ## Demo Video 
 https://youtu.be/pLtsP3DCq5c
+
+## Installation Instructions
+
+1. Install this .apk file only on an Android device.
+2. If the “App not installed” error occurs, please check if permissions are provided from the settings.
+3. Also if an error occurs check device specifications, and please install this app on newer versions of Android.
